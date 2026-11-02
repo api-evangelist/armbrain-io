@@ -1,4 +1,4 @@
-# armbrain-io
+# Armbrain
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,105 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-armbrain-io is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://armbrain.io/
+Armbrain is AI memory for fractionals running multiple clients, made by Volacci in Austin, Texas. It keeps a separate mind for each client or business, so your AI assistant remembers each one without mixing them up. It works across several AI platforms, including Claude, Claude Code, Cursor, ChatGPT, Grok, Gemini and Muse.
+
+**Areas:** AI · Memory · Productivity · SaaS · Multi-Client
+
+## Armbrain on APIs.io
+
+Everything profiled for Armbrain is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/armbrain-io/](https://apis.io/providers/armbrain-io/)** — or go straight to one of the APIs or properties below.
+
+### APIs (1)
+
+- [Armbrain API](https://apis.io/apis/armbrain-io/armbrain-api/) — Public API (gated behind authentication) for Armbrain AI memory platform.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (3)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Armbrain Io Authentication](https://apis.io/security/armbrain-io/armbrain-io-authentication/)
+- [Armbrain Io Domain Security](https://apis.io/security/armbrain-io/armbrain-io-domain-security/)
+- [Armbrain Io Vulnerability Disclosure](https://apis.io/security/armbrain-io/armbrain-io-vulnerability-disclosure/)
+
+#### OAuth scopes (1)
+
+The permissions the API asks for.
+
+- [Armbrain Io Scopes](https://apis.io/scopes/armbrain-io/armbrain-io-scopes/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://armbrain.io/)
+- [Documentation](https://armbrain.io/guides)
+- [Getting started](https://armbrain.io/guides/best-agentic-memory-setup)
+- [Pricing](https://armbrain.io/pricing)
+- [Sign up](https://armbrain.io/signup)
+- [Support](https://armbrain.io/support)
+- [Changelog](https://armbrain.io/changelog)
+- [Blog](https://armbrain.io/blog)
+- [Security](https://armbrain.io/security)
+- [Terms of service](https://armbrain.io/terms)
+- [Privacy policy](https://armbrain.io/privacy)
+- [Status](https://armbrain.io/status)
+
+## API Evangelist rating
+
+**Kin Score 28.5** — thin · rubric 0.26.0 · scored 2026-11-01
+
+| Facet | Score |
+|---|---|
+| Discoverability | 57.1 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 42.1 |
+| Developer ergonomics | 28.6 |
+| Access clarity | 44.7 |
+
+**Agent readiness 24.7** — agent-aware
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | served (partial credit) |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | yes |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | served (partial credit) |
+| Protected Resource Metadata | verified |
+| Dynamic Client Registration | yes |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | na |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 32.7** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/armbrain-io/](https://apis.io/providers/armbrain-io/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Armbrain: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/armbrain-io/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
